@@ -13,10 +13,6 @@ section {
     flex-wrap: wrap;
 }
 
-a {
-    display: block;
-}
-
 article {
     flex-grow: 1;
 }
