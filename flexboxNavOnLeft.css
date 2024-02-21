@@ -8,4 +8,14 @@ nav {
 
 section {
     flex-grow: 9;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a {
+    display: block;
+}
+
+article {
+    flex-grow: 1;
 }
