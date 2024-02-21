@@ -1,0 +1,11 @@
+div {
+    display: flex;
+}
+
+nav {
+    flex-grow: 1;
+}
+
+section {
+    flex-grow: 9;
+}
